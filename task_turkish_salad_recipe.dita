@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_turkish_salad_recipe">
+    <title>Turkish Salad Recipe</title>
+    <shortdesc>This refreshing and savory Middle Eastern salad is perfect for a summer lunch or dinner side dish.</shortdesc>
+    <taskbody>
+        <context>
+            <p>You will need:</p>
+            <ul>
+                <li><p><b>Supplies</b></p></li>
+                <li><p>Cutting board</p></li>
+                <li><p>Large, sharp chef’s knife</p></li>
+                <li><p>Large mixing bowl</p></li>
+                <li><p>Serving spoon</p></li>
+            </ul>
+            <ul>
+                <li><p><b>Ingredients</b></p></li>
+                <li><p>2 medium cucumbers</p></li>
+                <li><p>3 medium tomatoes</p></li>
+                <li><p>1/2 small head of cabbage</p></li>
+                <li><p>1 bunch fresh curly parsley</p></li>
+                <li><p>10 peppermint leaves</p></li>
+                <li><p>1 tsp. salt</p></li>
+                <li><p>1/2 tsp. pepper</p></li>
+                <li><p>2 Tbsp. extra virgin olive oil</p></li>
+                <li><p>1-2 Tbsp. lemon juice</p></li>
+            </ul>
+        </context>
+        <steps>
+            <step>
+                <cmd>Peel cucumbers and cut off ends. Cut tomatoes, cucumbers, and cabbage in a rough chop and add to bowl.</cmd>
+            </step>
+            <step>
+                <cmd>Chop parsley and peppermint finely and add to bowl.</cmd>
+            </step>
+            <step>
+                <cmd>Add salt and pepper and stir all thoroughly.</cmd>
+            </step>
+            <step>
+                <cmd>Drizzle olive oil and lemon juice over salad just before serving and stir to coat vegetables.</cmd>
+            </step>
+            <step>
+                <cmd>Serve chilled.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
