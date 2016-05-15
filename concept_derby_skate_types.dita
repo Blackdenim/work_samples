@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_skate_types_derby">
+ <title>Guide to Derby Skates</title>
+ <shortdesc>Roller derby is a competitive contact sport that is played on quad roller skates that
+  are built for speed and flexibility. More equipment is used than just skates, but the skates are,
+  of course, the most important piece of equipment--so quality matters.</shortdesc>
+ <conbody>
+  <p>There are many different skate brands, each with their own unique pros and cons. The range of
+   quality and cost is wide, and as such, certain brands of skates may be more suited than others
+   for beginners to the sport. Some brands of skates ship with low-quality wheels, plates, or
+   bearings on them. If this is the case, higher-quality parts should be purchased and installed on
+   the skates in place of the cheaper parts. The skates that are the highest quality and that cost
+   the most typically don't need this. When purchasing skates, always consider the advantages of
+   leather boots over vinyl. (Price ranges listed here do not reflect junior skate packages.)</p>
+  <table>
+   <title>Top 8 Skate Brands</title>
+   <tgroup cols="10">
+    <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+    <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+    <colspec colname="c3" colnum="3" colwidth="1.0*"/>
+    <colspec colname="c4" colnum="4" colwidth="1.0*"/>
+    <colspec colname="c5" colnum="5" colwidth="1.0*"/>
+    <colspec colname="c6" colnum="6" colwidth="1.0*"/>
+    <colspec colname="c7" colnum="7" colwidth="1.0*"/>
+    <colspec colname="c8" colnum="8" colwidth="1.0*"/>
+    <colspec colname="c9" colnum="9" colwidth="1.0*"/>
+    <colspec colname="c10" colnum="10" colwidth="1.0*"/>
+    <thead>
+     <row>
+      <entry></entry>
+      <entry><p>Bont</p></entry>
+      <entry><p>Antik</p></entry>
+      <entry><p>Vanilla</p></entry>
+      <entry><p>Riedell/R3</p></entry>
+      <entry><p>Atom</p></entry>
+      <entry><p>Sure-Grip</p></entry>
+      <entry><p>Jackson</p></entry>
+      <entry><p>Rock</p></entry>
+     </row>
+    </thead>
+    <tbody>
+     <row>
+      <entry><p>Quality</p></entry>
+      <entry><p>High</p></entry>
+      <entry><p>High</p></entry>
+      <entry><p>High</p></entry>
+      <entry><p>Medium to High</p></entry>
+      <entry><p>Medium to High</p></entry>
+      <entry><p>Low to Medium</p></entry>
+      <entry><p>Low to Medium</p></entry>
+      <entry><p>Low to Medium</p></entry>
+     </row>
+     <row>
+      <entry><p>Price Range</p></entry>
+      <entry><p>$300-$1000+</p></entry>
+      <entry><p>$250-$1000+</p></entry>
+      <entry><p>$250-$1000</p></entry>
+      <entry><p>R3 $100-$500, others $300-$1000</p></entry>
+      <entry><p>$200-$600</p></entry>
+      <entry><p>$125-$900</p></entry>
+      <entry><p>$100-$500</p></entry>
+      <entry><p>$90-$300</p></entry>
+     </row>
+     <row>
+      <entry><p>Suits Level</p></entry>
+      <entry><p>Advanced</p></entry>
+      <entry><p>Advanced</p></entry>
+      <entry><p>Advanced</p></entry>
+      <entry><p>Beginner (R3) to Advanced</p></entry>
+      <entry><p>Intermediate to Advanced</p></entry>
+      <entry><p>Beginner</p></entry>
+      <entry><p>Beginner</p></entry>
+      <entry><p>Beginner</p></entry>
+     </row>
+     <row>
+      <entry><p>Need Parts Swap</p></entry>
+      <entry><p>No</p></entry>
+      <entry><p>No</p></entry>
+      <entry><p>No</p></entry>
+      <entry><p>Depends on skate package</p></entry>
+      <entry><p>Depends on skate package</p></entry>
+      <entry><p>Yes</p></entry>
+      <entry><p>Yes</p></entry>
+      <entry><p>Yes</p></entry>
+     </row>
+    </tbody>
+   </tgroup>
+  </table>
+  <p>If you are skating for recreational purposes or are joining a roller derby team and don't have a large budget, consider
+   reaching out to your local derby players and buying or borrowing secondhand equipment. Even if you're buying a new pair of
+   skates, you may decide that you want better quality  or extra wheels, bearings, or other parts, and be able to get them
+   cheaply.</p>
+ </conbody>
+</concept>
