@@ -4,17 +4,17 @@
     <title>Turkish Salad Recipe</title>
     <shortdesc>This refreshing and savory Middle Eastern salad is perfect for a summer lunch or dinner side dish.</shortdesc>
     <taskbody>
+        <prereq><p>You will need:</p></prereq>
         <context>
-            <p>You will need:</p>
+            <p><b>Supplies</b></p>
             <ul>
-                <li><p><b>Supplies</b></p></li>
                 <li><p>Cutting board</p></li>
                 <li><p>Large, sharp chef’s knife</p></li>
                 <li><p>Large mixing bowl</p></li>
                 <li><p>Serving spoon</p></li>
             </ul>
+            <p><b>Ingredients</b></p>
             <ul>
-                <li><p><b>Ingredients</b></p></li>
                 <li><p>2 medium cucumbers</p></li>
                 <li><p>3 medium tomatoes</p></li>
                 <li><p>1/2 small head of cabbage</p></li>
